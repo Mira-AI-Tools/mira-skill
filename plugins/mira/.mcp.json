@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mira": {
+      "type": "http",
+      "url": "https://mira-ai-skill.pro/mcp",
+      "headers": {
+        "Authorization": "Bearer ${MIRA_API_KEY:-}"
+      }
+    }
+  }
+}

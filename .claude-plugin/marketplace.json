@@ -1,0 +1,15 @@
+{
+  "name": "mira-ai-tools",
+  "description": "Mira — let Claude watch TikTok, Instagram Reels and YouTube Shorts links",
+  "owner": {
+    "name": "Mira AI Tools",
+    "url": "https://mira-ai-skill.pro"
+  },
+  "plugins": [
+    {
+      "name": "mira",
+      "source": "./plugins/mira",
+      "description": "Watch TikTok, Instagram Reels, YouTube Shorts and other video links: transcript, on-screen text, caption and a structured extract of places, products, recipes and steps."
+    }
+  ]
+}
