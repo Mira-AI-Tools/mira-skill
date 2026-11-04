@@ -1,6 +1,6 @@
 {
   "name": "mira",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://mira-ai-skill.pro/privacy.html",
   "userConfig": {

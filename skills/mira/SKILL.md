@@ -1,6 +1,6 @@
 ---
 name: mira
-description: Watch social media videos and extract everything from them: Instagram (Reels, posts, carousels), TikTok (videos, photo carousels), YouTube (Shorts, long videos), Pinterest, X/Twitter and Facebook links, plus web pages. Returns the voiceover transcript, on-screen text, caption and a structured extract: places with addresses and ratings, recipes with ingredients and steps, products, books, movies, workouts, study notes. On the Extract + Video plan also downloads the original video or every carousel file. Use whenever the user shares one of these links, asks what a video says or shows, wants to transcribe, summarize or translate a video, pull a recipe, places or products from it, or download it. Requires the Mira connector and a subscription.
+description: "Watch social media videos and extract everything from them: Instagram (Reels, posts, carousels), TikTok (videos, photo carousels), YouTube (Shorts, long videos), Pinterest, X/Twitter and Facebook links, plus web pages. Returns the voiceover transcript, on-screen text, caption and a structured extract: places with addresses and ratings, recipes with ingredients and steps, products, books, movies, workouts, study notes. On the Extract + Video plan also downloads the original video or every carousel file. Use whenever the user shares one of these links, asks what a video says or shows, wants to transcribe, summarize or translate a video, pull a recipe, places or products from it, or download it. Requires the Mira connector and a subscription."
 ---
 
 # Mira — watch video links
