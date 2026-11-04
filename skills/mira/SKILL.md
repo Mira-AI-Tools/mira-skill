@@ -1,13 +1,16 @@
 ---
 name: mira
-description: Watch TikTok, Instagram Reels, YouTube Shorts and other video links through the Mira connector — get the transcript, on-screen text, caption and a structured extract (places, products, recipes, steps) so you can answer questions about the video. Use whenever the user shares a video link or asks about a video's content.
+description: Watch social media videos and extract everything from them: Instagram (Reels, posts, carousels), TikTok (videos, photo carousels), YouTube (Shorts, long videos), Pinterest, X/Twitter and Facebook links, plus web pages. Returns the voiceover transcript, on-screen text, caption and a structured extract: places with addresses and ratings, recipes with ingredients and steps, products, books, movies, workouts, study notes. On the Extract + Video plan also downloads the original video or every carousel file. Use whenever the user shares one of these links, asks what a video says or shows, wants to transcribe, summarize or translate a video, pull a recipe, places or products from it, or download it. Requires the Mira connector and a subscription.
 ---
 
 # Mira — watch video links
 
 You can't watch videos yourself. The **Mira** connector (MCP server) does it for
-you: it downloads the video, transcribes the voiceover, reads on-screen text
-from key frames and returns a structured extract.
+you: it transcribes the voiceover, reads on-screen text from key frames, takes
+the caption and returns a structured extract. It works with Instagram (Reels,
+posts, carousels), TikTok (videos, photo carousels), YouTube (Shorts, long
+videos), Pinterest, X/Twitter, Facebook and web pages. On the Extract + Video
+plan it also saves the original video or every file of a carousel for download.
 
 ## When the user shares a video link
 

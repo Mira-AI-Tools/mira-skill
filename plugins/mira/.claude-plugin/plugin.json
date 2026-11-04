@@ -1,7 +1,7 @@
 {
   "name": "mira",
   "version": "1.0.0",
-  "description": "Watch TikTok, Instagram Reels, YouTube Shorts and other video links: transcript, on-screen text, caption and a structured extract of places, products, recipes and steps.",
+  "description": "Watch Instagram, TikTok, YouTube, Pinterest, X and Facebook videos: transcript, on-screen text, caption, structured extract of places, recipes and products, and the original video download.",
   "author": {
     "name": "Mira AI Tools",
     "url": "https://mira-ai-skill.pro"
@@ -9,5 +9,23 @@
   "homepage": "https://mira-ai-skill.pro",
   "repository": "https://github.com/Mira-AI-Tools/mira-skill",
   "license": "MIT",
-  "keywords": ["tiktok", "instagram", "reels", "youtube", "shorts", "video", "transcript", "recipes", "places", "mcp"]
+  "keywords": [
+    "download",
+    "facebook",
+    "instagram",
+    "mcp",
+    "ocr",
+    "pinterest",
+    "places",
+    "recipes",
+    "reels",
+    "shorts",
+    "subtitles",
+    "tiktok",
+    "transcript",
+    "twitter",
+    "video",
+    "x",
+    "youtube"
+  ]
 }

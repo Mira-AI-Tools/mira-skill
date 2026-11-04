@@ -2,11 +2,12 @@
   <img src="assets/mira-icon.png" width="72" alt="Mira">
 </p>
 
-<h1 align="center">Mira — let Claude watch TikTok, Instagram Reels and YouTube Shorts</h1>
+<h1 align="center">Mira — let Claude watch Instagram, TikTok and YouTube videos</h1>
 
 <p align="center">
-  An agent skill and MCP connector that lets <b>Claude</b> and <b>ChatGPT</b> watch video links.<br>
-  Paste a TikTok, Reel or Short and ask anything about it.
+  An agent skill and MCP connector that lets <b>Claude</b> and <b>ChatGPT</b> watch video links from<br>
+  <b>Instagram, TikTok, YouTube, Pinterest, X (Twitter) and Facebook</b>: transcript, on-screen text, caption,<br>
+  a structured extract, and the original video download.
 </p>
 
 <p align="center">
