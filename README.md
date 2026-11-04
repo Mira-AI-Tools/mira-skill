@@ -89,11 +89,7 @@ You need two parts: the **connector** (does the watching) and, optionally, the *
 /plugin install mira@mira-ai-tools
 ```
 
-Then set your key (from the setup email) before starting Claude Code:
-
-```bash
-export MIRA_API_KEY=mira_sk_your_key
-```
+Claude Code asks for your key (from the setup email) when the plugin is enabled. To change it later: `/plugin` → **Installed** → **mira** → **Configure options**.
 
 The plugin bundles both the skill and the connector.
 

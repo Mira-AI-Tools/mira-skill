@@ -59,8 +59,8 @@ extract for — not from the link, the title or general knowledge.
   needs a subscription to watch videos — subscribe at
   https://mira-ai-skill.pro, then add the personal connector URL from the
   setup page or email (in Claude: Settings → Connectors → Add custom
-  connector; in Claude Code with the Mira plugin: set the `MIRA_API_KEY`
-  environment variable to the key).
+  connector; in Claude Code with the Mira plugin: enter the key under
+  /plugin → Installed → mira → Configure options).
 - **A Mira tool call fails, times out or the connector can't be reached**:
   tell the user Mira is temporarily unavailable and suggest trying again in a
   few minutes. If it keeps failing, they can check their connection or write

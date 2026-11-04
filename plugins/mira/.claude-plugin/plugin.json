@@ -1,6 +1,16 @@
 {
   "name": "mira",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://mira-ai-skill.pro/privacy.html",
+  "userConfig": {
+    "api_key": {
+      "type": "string",
+      "title": "Mira API key",
+      "description": "The key from your Mira setup email (starts with mira_sk_). Without one, Mira explains how to subscribe at https://mira-ai-skill.pro.",
+      "sensitive": true
+    }
+  },
   "description": "Watch Instagram, TikTok, YouTube, Pinterest, X and Facebook videos: transcript, on-screen text, caption, structured extract of places, recipes and products, and the original video download.",
   "author": {
     "name": "Mira AI Tools",
