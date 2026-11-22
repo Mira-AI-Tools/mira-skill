@@ -1,6 +1,6 @@
 {
   "name": "mira-ai-tools",
-  "description": "Mira — let Claude watch TikTok, Instagram Reels and YouTube Shorts links",
+  "description": "Mira Video Transcript — TikTok, Instagram Reels and YouTube transcripts for Claude",
   "owner": {
     "name": "Mira AI Tools",
     "url": "https://mira-ai-skill.pro"
@@ -9,7 +9,7 @@
     {
       "name": "mira",
       "source": "./plugins/mira",
-      "description": "Watch Instagram, TikTok, YouTube, Pinterest, X and Facebook videos: transcript, on-screen text, caption, structured extract of places, recipes and products, and the original video download."
+      "description": "Video transcript for TikTok, Instagram Reels and YouTube Shorts: voiceover transcript, on-screen text, caption and a structured extract of places, recipes and products. Also Pinterest, X and Facebook videos, plus the original video download."
     }
   ]
 }

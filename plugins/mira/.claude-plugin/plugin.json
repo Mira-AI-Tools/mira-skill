@@ -1,6 +1,6 @@
 {
   "name": "mira",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://mira-ai-skill.pro/privacy.html",
   "userConfig": {
@@ -11,7 +11,7 @@
       "sensitive": true
     }
   },
-  "description": "Watch Instagram, TikTok, YouTube, Pinterest, X and Facebook videos: transcript, on-screen text, caption, structured extract of places, recipes and products, and the original video download.",
+  "description": "Video transcript for TikTok, Instagram Reels and YouTube Shorts: voiceover transcript, on-screen text, caption and a structured extract of places, recipes and products. Also Pinterest, X and Facebook videos, plus the original video download.",
   "author": {
     "name": "Mira AI Tools",
     "url": "https://mira-ai-skill.pro"

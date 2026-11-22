@@ -2,10 +2,10 @@
   <img src="assets/mira-icon.png" width="72" alt="Mira">
 </p>
 
-<h1 align="center">Mira — let Claude watch Instagram, TikTok and YouTube videos</h1>
+<h1 align="center">TikTok, Instagram Reels &amp; YouTube Video Transcript for Claude and ChatGPT — Mira</h1>
 
 <p align="center">
-  An agent skill and MCP connector that lets <b>Claude</b> and <b>ChatGPT</b> watch video links from<br>
+  <b>Mira Video Transcript</b> is an agent skill and MCP connector that lets <b>Claude</b> and <b>ChatGPT</b> watch video links from<br>
   <b>Instagram, TikTok, YouTube, Pinterest, X (Twitter) and Facebook</b>: transcript, on-screen text, caption,<br>
   a structured extract, and the original video download.
 </p>
@@ -123,7 +123,7 @@ Setup for every client (Cursor, VS Code, Windsurf, Gemini CLI, Cline, Codex, …
 npx skills add Mira-AI-Tools/mira-skill
 ```
 
-The skill lives in [`skills/mira/SKILL.md`](skills/mira/SKILL.md) and works in any agent that supports Agent Skills.
+The skill (`mira-video-transcript`) lives in [`skills/mira-video-transcript/SKILL.md`](skills/mira-video-transcript/SKILL.md) and works in any agent that supports Agent Skills.
 
 ## How it works for you
 
