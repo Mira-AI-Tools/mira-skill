@@ -1,7 +1,7 @@
 {
   "name": "mira",
   "displayName": "Mira Video Transcript: TikTok, Instagram Reels & YouTube",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://mira-ai-skill.pro/privacy.html",
   "userConfig": {
@@ -17,7 +17,7 @@
     "name": "Mira AI Tools",
     "url": "https://mira-ai-skill.pro"
   },
-  "homepage": "https://mira-ai-skill.pro",
+  "homepage": "https://mira-ai-skill.pro/?source=ant",
   "repository": "https://github.com/Mira-AI-Tools/mira-skill",
   "license": "MIT",
   "keywords": [
@@ -38,5 +38,8 @@
     "video",
     "x",
     "youtube"
-  ]
+  ],
+  "documentationUrl": "https://github.com/Mira-AI-Tools/mira-mcp",
+  "supportUrl": "mailto:support@mira-ai-skill.pro",
+  "termsOfServiceUrl": "https://mira-ai-skill.pro/terms.html"
 }
