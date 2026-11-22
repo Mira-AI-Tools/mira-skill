@@ -1,6 +1,7 @@
 {
   "name": "mira",
-  "version": "1.0.6",
+  "displayName": "Mira Video Transcript: TikTok, Instagram Reels & YouTube",
+  "version": "1.0.7",
   "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://mira-ai-skill.pro/privacy.html",
   "userConfig": {
