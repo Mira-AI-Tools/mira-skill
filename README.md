@@ -115,6 +115,8 @@ Mira is a remote MCP server (Streamable HTTP):
 
 Or use your personal connector URL as the server URL with no headers.
 
+Setup for every client (Cursor, VS Code, Windsurf, Gemini CLI, Cline, Codex, …) is in [Mira-AI-Tools/mira-mcp](https://github.com/Mira-AI-Tools/mira-mcp).
+
 ### Agent skills CLI
 
 ```bash
