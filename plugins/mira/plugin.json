@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "mira",
+  "version": "1.0.8",
+  "description": "Video transcript for TikTok, Instagram Reels and YouTube Shorts: voiceover transcript, on-screen text, caption and a structured extract of places, recipes and products, through the Mira remote MCP server.",
+  "author": {
+    "name": "Mira AI Tools",
+    "url": "https://mira-ai-skill.pro"
+  },
+  "homepage": "https://mira-ai-skill.pro/?source=gco",
+  "repository": "https://github.com/Mira-AI-Tools/mira-skill",
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "mcp",
+    "ocr",
+    "reels",
+    "shorts",
+    "subtitles",
+    "tiktok",
+    "transcript",
+    "video",
+    "youtube"
+  ]
+}
